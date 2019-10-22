@@ -31,8 +31,8 @@
     "typescript": "^3.6.3"
   },
   "build": {
-    "productName": "{your name}",
-    "appId": "{application.id}",
+    "productName": "vectron",
+    "appId": "com.evileric.vectron",
     "win": {
       "target": [
         "nsis",
